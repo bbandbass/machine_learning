@@ -1,5 +1,4 @@
-# machine_learning
-Korea Univ / Machine Learning / COSE362
+
 
 
 # Machine Learning
